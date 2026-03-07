@@ -6,6 +6,10 @@
     align-items: center;
 }
 
+.w-full {
+    width: 100%;
+}
+
 @media (max-width: 767px) {
     .hide-mobile {
         display: none;

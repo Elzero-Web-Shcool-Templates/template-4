@@ -6,6 +6,10 @@
     padding: 10px;
 }
 
+.p-15 {
+    padding: 15px;
+}
+
 .p-20 {
     padding: 20px;
 }
@@ -23,5 +27,5 @@
 }
 
 .ml-10 {
-    margin-top: 10px;
+    margin-left: 10px;
 }

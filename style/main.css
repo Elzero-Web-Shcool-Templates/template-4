@@ -1,5 +1,14 @@
 :root {
     --transition-duration: 0.3s;
+    --fa-style-family-classic: "Font Awesome 5 Free";
+    --fa-style-family-solid: normal 900 1em/1 var(--fa-style-family-classic);
+
+    --blue-color: #0075FF;
+    --blue-alt-color: #0D69D5;
+    --orange-color: #F59E0B;
+    --green-color: #22C55E;
+    --red-color: #F44336;
+    --grey-color: #888;
 }
 
 * {
