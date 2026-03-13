@@ -6,6 +6,14 @@
     background-color: #eee;
 }
 
+.bg-orange {
+    background-color: var(--orange-color);
+}
+
+.bg-green {
+    background-color: var(--green-color);
+}
+
 .bg-blue {
     background-color: var(--blue-color);
 }
@@ -16,6 +24,18 @@
 
 .c-grey {
     color: var(--grey-color);
+}
+
+.c-orange {
+    color: var(--orange-color);
+}
+
+.c-green {
+    color: var(--green-color);
+}
+
+.c-blue {
+    color: var(--blue-color);
 }
 
 .c-white {

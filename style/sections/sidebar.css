@@ -35,6 +35,10 @@
     transition: var(--transition-duration);
 }
 
+.sidebar ul li a:hover {
+    transform: translateX(2px);
+}
+
 .sidebar ul li a:hover, .sidebar ul li a .active {
     background-color: #F6F6F6;
 }

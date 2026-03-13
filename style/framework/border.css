@@ -2,6 +2,10 @@
     border-radius: 6px;
 }
 
+.rad-10 {
+    border-radius: 10px;
+}
+
 .b-none {
     border: none;
 }
