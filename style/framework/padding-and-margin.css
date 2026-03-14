@@ -18,9 +18,12 @@
     padding-right: 10px;
 }
 
-
 .pl-10 {
     padding-left: 10px;
+}
+
+.pb-15 {
+    padding-left: 15px;
 }
 
 .m-20 {
@@ -61,6 +64,10 @@
 
 .mb-10 {
     margin-bottom: 10px;
+}
+
+.mb-115 {
+    margin-bottom: 115px;
 }
 
 .mb-20 {

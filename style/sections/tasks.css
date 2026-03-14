@@ -1,0 +1,23 @@
+.tasks .task-row:not(:last-of-type) {
+    border-bottom: 1px solid #EEE;
+}
+
+.tasks .info {
+    flex-grow: 1;
+}
+
+.tasks .done {
+    opacity: 0.3;
+}
+
+.tasks .done h3, .tasks .done p {
+    text-decoration: line-through;
+}
+
+.tasks .actions .icon {
+    transition: var(--transition-duration);
+}
+
+.tasks .actions .icon:hover {
+    transform: translateY(-2px);
+}
