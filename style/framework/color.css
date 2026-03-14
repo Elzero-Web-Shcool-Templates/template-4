@@ -38,6 +38,10 @@
     color: var(--blue-color);
 }
 
+.c-red {
+    color: var(--red-color);
+}
+
 .c-white {
     color: white;
 }

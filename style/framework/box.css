@@ -30,6 +30,10 @@
     width: fit-content;
 }
 
+.f-wrap {
+    flex-wrap: wrap;
+}
+
 @media (max-width: 767px) {
     .hide-mobile {
         display: none;
