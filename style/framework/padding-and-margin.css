@@ -14,17 +14,22 @@
     padding: 20px;
 }
 
+.pt-15 {
+    padding-top: 15px;
+}
+
 .pr-10 {
     padding-right: 10px;
+}
+
+.pb-15 {
+    padding-bottom: 15px;
 }
 
 .pl-10 {
     padding-left: 10px;
 }
 
-.pb-15 {
-    padding-left: 15px;
-}
 
 .m-20 {
     margin: 20px;
