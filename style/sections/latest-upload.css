@@ -1,0 +1,8 @@
+.latest-upload ul li:not(:last-of-type) {
+    border-bottom: 1px solid #eee;
+}
+
+.latest-upload img {
+    width: 40px;
+    height: 40px;
+}
