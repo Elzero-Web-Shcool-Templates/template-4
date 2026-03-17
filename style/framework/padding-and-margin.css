@@ -34,6 +34,10 @@
     padding-left: 10px;
 }
 
+.pl-15 {
+    padding-left: 15px;
+}
+
 .m-20 {
     margin: 20px;
 }
@@ -52,6 +56,10 @@
 
 .mt-10 {
     margin-top: 10px;
+}
+
+.mt-15 {
+    margin-top: 15px;
 }
 
 .mt-20 {

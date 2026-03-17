@@ -18,6 +18,10 @@
     background-color: var(--blue-color);
 }
 
+.bg-red {
+    background-color: var(--red-color);
+}
+
 .c-black {
     color: black;
 }
