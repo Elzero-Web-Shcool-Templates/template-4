@@ -90,6 +90,10 @@
     margin-top: 25px;
 }
 
+.mr-0 {
+    margin-right: 0;
+}
+
 .mr-5 {
     margin-right: 5px;
 }
@@ -110,8 +114,8 @@
     margin-bottom: 10px;
 }
 
-.mb-115 {
-    margin-bottom: 115px;
+.mb-15 {
+    margin-bottom: 15px;
 }
 
 .mb-20 {

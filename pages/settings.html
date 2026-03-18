@@ -34,6 +34,8 @@
     <link rel="stylesheet" href="../style/sections/content.css">
     <link rel="stylesheet" href="../style/sections/settings/control.css">
     <link rel="stylesheet" href="../style/sections/settings/general-info.css">
+    <link rel="stylesheet" href="../style/sections/settings/security-info.css">
+    <link rel="stylesheet" href="../style/sections/settings/social-info.css">
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -152,14 +154,14 @@
                 <div class="widget security-info">
                     <h2 class="mt-0 mb-10">Security Info</h2>
                     <p class="mt-0 mb-20 c-grey fs-15">Security information about your account</p>
-                    <div class="sec-box mb-15 between-flex">
+                    <div class="sec-box mb-15 pb-15 between-flex">
                         <div>
                             <span>Password</span>
                             <p class="c-grey mt-5 mb-0 fs-13">Last change on 25/10/2021</p>
                         </div>
                         <a href="#" class="d-block fs-14 bg-blue c-white w-fit btn-shape">Change</a>
                     </div>
-                    <div class="sec-box mb-15 between-flex">
+                    <div class="sec-box mb-15 pb-15 between-flex">
                         <div>
                             <span>Tow-Factor authentication</span>
                             <p class="c-grey mt-5 mb-0 fs-13">Enable/Disable the feature</p>
@@ -169,7 +171,7 @@
                             <div class="toggle-switch"></div>
                         </label>
                     </div>
-                    <div class="sec-box mb-15 between-flex">
+                    <div class="sec-box pb-15 between-flex">
                         <div>
                             <span>Devices</span>
                             <p class="c-grey mt-5 mb-0 fs-13">Check the login devices list</p>
@@ -178,6 +180,28 @@
                     </div>
                 </div>
                 <!-- End Security Info -->
+                <!-- Start Social Info -->
+                <div class="widget social-info">
+                    <h2 class="mt-0 mb-10">Social Info</h2>
+                    <p class="mt-0 mb-20 c-grey fs-15">Social media information</p>
+                    <div class="social-box d-flex align-center mb-15">
+                        <i class="fa-brands fa-x center-flex c-grey"></i>
+                        <input type="text" placeholder="X username" class="w-full">
+                    </div>
+                    <div class="social-box d-flex align-center mb-15">
+                        <i class="fa-brands fa-facebook-f center-flex c-grey"></i>
+                        <input type="text" placeholder="Facebook username" class="w-full">
+                    </div>
+                    <div class="social-box d-flex align-center mb-15">
+                        <i class="fa-brands fa-linkedin center-flex c-grey"></i>
+                        <input type="text" placeholder="Linkedin username" class="w-full">
+                    </div>
+                    <div class="social-box d-flex align-center mb-15">
+                        <i class="fa-brands fa-youtube center-flex c-grey"></i>
+                        <input type="text" placeholder="Youtube username" class="w-full">
+                    </div>
+                </div>
+                <!-- End Social Info -->
             </div>
         </div>
     </div>
