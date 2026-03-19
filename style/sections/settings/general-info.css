@@ -17,3 +17,9 @@
     background-color: var(--blue-color);
     color: white;
 }
+
+.general-info .email:disabled {
+    cursor: no-drop;
+    background-color: #F0F4F8;
+    color: #BBB;
+}
