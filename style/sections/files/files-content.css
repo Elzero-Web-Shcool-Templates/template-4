@@ -1,0 +1,18 @@
+.files-content {
+    flex: 1;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+.files-content img {
+    width: 64px;
+    height: 64px;
+    transition: var(--transition-duration);
+}
+
+.files-content .file:hover img {
+    transform: rotate(5deg);
+}
+
+.files-content .info {
+    border-top: 1px solid #EEE;
+}
